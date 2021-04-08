@@ -1,0 +1,14 @@
+{
+    "game": [
+        {
+            "game_name": "Legend of Zelda, The - The Minish Cap",
+			"game_image": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Legend_of_Zelda_The_Minish_Cap_Game_Cover.JPG",
+            "game_download": "http://drakorin.xyz/sampah/Legend%20of%20Zelda,%20The%20-%20The%20Minish%20Cap.7z"
+        },
+        {
+            "game_name": "Super Mario Advance 4 - Super Mario Bros. 3",
+			"game_image": "https://i.pinimg.com/736x/f2/33/e3/f233e3f4b2734f9b272379c50b602797.jpg",
+            "game_download": "http://drakorin.xyz/sampah/Super Mario Advance 4 - Super Mario Bros. 3.7z"
+        }
+    ]
+}
