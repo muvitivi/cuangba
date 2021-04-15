@@ -1,0 +1,15 @@
+{
+      "admob_interstitial_ad_id": "ca-app-pub-9065285149917197/2333921009",
+      "admob_banner_ad_id": "ca-app-pub-9065285149917197/7498617778",
+	   "unity_game_id": "3874087",
+	   "unity_interstitial": "video",
+	   "unity_banner": "banner",
+	   "interstitial_timer": "3",
+	   "enable_open_ads": "true",
+	  "startapp_id": "209888054",
+	  "versi_sekarang": "1.0.0",
+	  "pesan_update":"Download aplikasi terbaru sekarang, kalo ngga gua bacok lu",
+	  "url_update":"https://play.google.com/store/apps/details?id=",
+	  "JSON_URL0":"aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vdWM/ZXhwb3J0PWRvd25sb2FkJmlkPTFKc3lqdTFwVkxiYXo0aU5uUDVHc3k3WEZ2Vk42MzlSeQ==",
+	  "pn0":"Y29tLmdiYWFkY2FuY2VnYW1lcm9tLm1hcmlva2FydHN1b2VyY2lyY3VpdA=="
+}
