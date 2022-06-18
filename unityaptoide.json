@@ -1,7 +1,7 @@
 {
       "admob_interstitial_ad_id": "ca-app-pub-3940256099942544/10331737XX",
       "admob_banner_ad_id": "ca-app-pub-3940256099942544/63009781XX",
-	   "unity_game_id": "3874087",
+	   "unity_game_id": "3000000",
 	   "unity_interstitial": "video",
 	   "unity_banner": "banner",
 	   "interstitial_timer": "3",
