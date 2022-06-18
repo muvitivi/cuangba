@@ -5,7 +5,7 @@
 	   "unity_interstitial": "video",
 	   "unity_banner": "banner",
 	   "interstitial_timer": "3",
-	   "enable_open_ads": "true",
+	   "enable_open_ads": "false",
 	  "startapp_id": "209888054",
 	  "versi_sekarang": "1.0.0",
 	  "pesan_update":"Download aplikasi terbaru sekarang, kalo ngga gua bacok lu",
